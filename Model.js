@@ -11,6 +11,7 @@ const numberCodeArray = [
     'v', 'w', 'x', 'y', 'z', ' ', 'æ',
      'ø', 'å'];
 
+const keyBoard = document.querySelector('#text');
 let textValue = null;
 
 let response = '';
